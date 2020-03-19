@@ -1,2 +1,3 @@
 node_modules\
-.DS_Storegit chec
+.DS_Storegit
+/node_modules
